@@ -8,4 +8,4 @@ Initially created to generated PNG's for ofxAddons.
 
 # Download
 
-http://www.kimchiandchips.com/files/movToPng.zip
+osx binary : http://www.kimchiandchips.com/files/movToPng.zip
